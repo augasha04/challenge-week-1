@@ -20,7 +20,7 @@ USAGE
 To use this project, follow these steps:
   1.Make sure you are in the project directory using 'cd wk1-code-challenge'.
     2.Run the project using 'npm install' then 'npm test'.
-      3.Open your web browser and navigate to 
+      3.Open your web browser and navigate to  https://github.com/augasha04/challenge-week-1
         4.My codeis simple to understand and staraight to the point.
         
         
